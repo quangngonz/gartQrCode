@@ -10,6 +10,7 @@ function App() {
     <div className="App">
       <Webcam videoConstraints={videoConstraints} />
       <h1>Người gart cần tìm trên là bạn!</h1>
+      <a href="https://bit.ly/CometoGART6520  ">Bấm vào đây để app GART</a>
     </div>
   );
 }
